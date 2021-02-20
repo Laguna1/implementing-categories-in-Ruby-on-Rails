@@ -1,5 +1,8 @@
 # README
 
+Source:
+- [Atricle](https://blog.skcript.com/implementing-categories-in-ruby-on-rails-14c2b5e77b34)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
